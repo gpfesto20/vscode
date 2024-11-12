@@ -1,0 +1,10 @@
+TID,Milk,Bread,Butter,Eggs,Apples
+T1,True,True,False,False,True
+T2,False,True,False,True,False
+T3,False,True,True,False,False
+T4,True,True,False,True,False
+T5,True,False,True,False,False
+T6,False,True,True,False,False
+T7,True,False,True,False,False
+T8,True,True,True,False,True
+T9,True,True,True,False,False
