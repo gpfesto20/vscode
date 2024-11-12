@@ -192,3 +192,8 @@ Gini Gain is similar to Information Gain but based on the Gini Index. It measure
 The Gini Gain for an attribute is calculated as:
 
 Gini Gain=Parent Gini−∑(proportion of subset)×Gini Index of subset
+
+
+    decisontreelearn
+
+    classify(j48)
